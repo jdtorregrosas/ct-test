@@ -1,0 +1,4 @@
+<div *ngIf="response !== undefined" class="response-container">
+  <p class="message success">{{succeedCounter}} users successfully invited</p>
+  <p *ngFor="let error of errors" class="message error">{{error}}</p>
+</div>

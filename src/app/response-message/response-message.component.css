@@ -1,0 +1,17 @@
+.message {
+  border: solid 0.5px;
+  border-radius: 4px;
+  padding: 8px;
+  margin-bottom: 8px;
+  margin-top: 0px;
+}
+
+.success {
+  border-color: #73b173;
+  background-color: hsl(120deg 28% 92%);
+}
+
+.error {
+  border-color: #fc5c48;
+  background-color: hsl(7deg 97% 91%);
+}
