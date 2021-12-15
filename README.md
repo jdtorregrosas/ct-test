@@ -1,3 +1,6 @@
+# Demo
+
+![Alt Text](./demo.gif)
 # Invite code challenge
 
 The task of this code challenge is to send an invitation to each of the users from the list (located in `invite.component.ts`).
